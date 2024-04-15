@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880478211679",
+    "project_id": "missionforhealth-aa803",
+    "storage_bucket": "missionforhealth-aa803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880478211679:android:d6ef11e367a0e7625c95ea",
+        "android_client_info": {
+          "package_name": "com.example.mission_health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-iIka-S4zIVmgCSylm1tfAyxsHAhxlUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
